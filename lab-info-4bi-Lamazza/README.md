@@ -1,0 +1,1 @@
+# Repository di Lamazza Nome\nClasse: 4BI\nAnno Scolastico: 2026/2027\n\nScopo del repository: Raccolta delle esercitazioni svolte nel laboratorio di informatica." 
